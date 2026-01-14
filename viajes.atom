@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmls="http//www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Explora Ciudades</title>
+    <link href="https://www.exploraciudades.com"/>
+    <update>2026-01-14T14:00:00Z</update>
+    <id>https://www.exploraciudades.com</id>
+    <author>
+        <name></name>
+    </author>
+    <entry>
+        <title></title>
+        <link href="#"/>
+        <id></id>
+        <update></update>
+        <summary></summary>
+    </entry>
+    <entry>
+        <title></title>
+        <link href="#"/>
+        <id></id>
+        <update></update>
+        <summary></summary>
+    </entry>
+    <entry>
+        <title></title>
+        <link href="#"/>
+        <id></id>
+        <update></update>
+        <summary></summary>
+    </entry>
+    
+</feed>
