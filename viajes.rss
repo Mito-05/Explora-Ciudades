@@ -6,22 +6,22 @@
         <description> Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
         <language>es</language>
         <item>
-            <title></title>
-            <guid></guid>
-            <description></description>
-        </item>
-        <item>
-        <title></title>
-            <guid></guid>
-            <description></description>
-        </item>
-        <title></title>
-            <guid></guid>
-            <description></description>
-        </item>
-        <title></title>
-            <guid></guid>
-            <description></description>
-        </item>
+                <title>El Tour de los Médici y el Renacimiento (Florencia, Italia)</title>
+                <guid>https://www.exploraciudades/medici-renacimiento-florencia.com</guid>
+                <description>Coronada como la experiencia número 1 a nivel mundial. No es solo un paseo histórico, sino una inmersión en los secretos de la familia que financió el Renacimiento. Los viajeros destacan la narrativa de los guías que logran que la Florencia del siglo XV cobre vida mientras recorres el Palazzo Vecchio y el Duomo</description>
+            </item>
+            <item>
+                    <title>La ruta del Oro (Japón)</title>
+                    <guid>https://www.exploraciudades/ruta-oro.com</guid>
+                    <description>Esta ruta es el viaje de contrastes definitivo: una travesía que te lleva desde el caos organizado y las luces de neón de Tokio, pasando por la paz espiritual de los templos milenarios en Kioto, hasta la naturaleza imponente a los pies del Monte Fuji</description>
+            </item>
+                <title>Aventura en la Cueva Azul (Dubrovnik, Croacia)</title>
+                <guid>https://www.exploraciudades/cueva-azul.com</guid>
+                <description>Una experiencia en grupo pequeño que combina navegación en lancha rápida con snorkel. Lo más valorado es la entrada a la Cueva Azul en la isla de Biševo, donde la luz solar crea un efecto luminiscente bajo el agua. Es considerada la mejor actividad acuática del 2025 por su equilibrio entre adrenalina y belleza natural.</description>
+            </item>
+                <title>La paris de Sudamerica (Buenos Aires, Argentina)</title>
+                <guid>https://www.exploraciudades.com/buenos-aires</guid>
+                <description>Buenos Aires es una ciudad que cautiva por su dualidad: la elegancia europea de sus palacios y teatros se mezcla con la pasión popular del fútbol y el tango. Es la capital mundial de las librerías y del buen comer.</description>
+            </item>
     </channel>
 </rss>
