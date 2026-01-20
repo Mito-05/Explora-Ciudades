@@ -8,6 +8,20 @@ To ensure compatibility with all modern readers and aggregators, we provide two 
 1.  **RSS 2.0:** The classic standard for broad compatibility.
 2.  **Atom 1.0:** A more robust and modern alternative for developers and advanced readers.
 
+## ✅ Validation
+
+To ensure the highest quality and compatibility, both feeds are periodically validated using the **W3C Feed Validation Service**. Below are the current validation status results:
+
+### RSS 2.0 Validation
+![RSS Validation Status](./image/rss.png)
+*Status: Valid RSS 2.0*
+
+### Atom 1.0 Validation
+![Atom Validation Status](./image/atom.png)
+*Status: Valid Atom 1.0*
+
+---
+
 ## 🚀 Featured Content
 * **Top-Rated Experiences:** Global rankings (e.g., Florence, Croatia).
 * **Master Itineraries:** Step-by-step routes like Japan's "Golden Route."

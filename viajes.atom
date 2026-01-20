@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmls="http//www.w3.org/2005/Atom" xml:lang="es-es">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
     <title>Explora Ciudades</title>
     <link href="https://www.exploraciudades.com"/>
-    <update>2026-01-14T14:00:00Z</update>
+    <updated>2026-01-14T14:00:00Z</updated>
     <id>https://www.exploraciudades.com</id>
     <author>
-        <name></name>
+        <name>Manuel Vasco López</name>
     </author>
+
     <entry>
         <title>El Tour de los Médici y el Renacimiento (Florencia, Italia)</title>
-        <link href="https://www.exploraciudades/medici-renacimiento-florencia.com"/>
-        <id>https://www.exploraciudades/medici-renacimiento-florencia.com</id>
-        <update>2026-01-14T14:30:00Z</update>
-        <summary>Coronada como la experiencia número 1 a nivel mundial. No es solo un paseo histórico, sino una inmersión en los secretos de la familia que financió el Renacimiento. Los viajeros destacan la narrativa de los guías que logran que la Florencia del siglo XV cobre vida mientras recorres el Palazzo Vecchio y el Duomo</summary>
+        <link href="https://www.exploraciudades.com/medici-renacimiento-florencia"/>
+        <id>https://www.exploraciudades.com/medici-renacimiento-florencia</id>
+        <updated>2026-01-14T14:30:00Z</updated>
+        <summary>Coronada como la experiencia número 1 a nivel mundial. No es solo un paseo histórico, sino una inmersión en los secretos de la familia que financió el Renacimiento.</summary>
     </entry>
+
     <entry>
-        <title></title>
-        <link href="#"/>
-        <id></id>
-        <update></update>
-        <summary></summary>
+        <title>La ruta del Oro (Japón)</title>
+        <link href="https://www.exploraciudades.com/ruta-oro-japon"/>
+        <id>https://www.exploraciudades.com/ruta-oro-japon</id>
+        <updated>2026-01-20T09:27:00Z</updated>
+        <summary>Esta ruta es el viaje de contrastes definitivo: desde el caos de Tokio hasta la paz de Kioto y el Monte Fuji.</summary>
     </entry>
+
     <entry>
-        <title></title>
-        <link href="#"/>
-        <id></id>
-        <update></update>
-        <summary></summary>
+        <title>Aventura en la Cueva Azul (Dubrovnik, Croacia)</title>
+        <link href="https://www.exploraciudades.com/cueva-azul"/>
+        <id>https://www.exploraciudades.com/cueva-azul</id>
+        <updated>2026-01-20T09:30:00Z</updated>
+        <summary>Una experiencia en grupo pequeño que combina navegación en lancha rápida con snorkel en la isla de Biševo.</summary>
     </entry>
-    
 </feed>
